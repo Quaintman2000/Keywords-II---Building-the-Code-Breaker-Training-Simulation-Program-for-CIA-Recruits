@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\agcga\Desktop\CoderBreakerII\CoderBreakerII\Source.cpp(58,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\agcga\Desktop\CoderBreakerII\CoderBreakerII\Source.cpp(83,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\agcga\Desktop\CoderBreakerII\CoderBreakerII\Source.cpp(98,23): warning C4018: '<': signed/unsigned mismatch
+  CoderBreakerII.vcxproj -> C:\Users\agcga\Desktop\CoderBreakerII\Debug\CoderBreakerII.exe
